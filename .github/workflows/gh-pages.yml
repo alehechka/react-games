@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@main
-        with:
-          node-version: '12.x'
 
       - name: Use cached node_modules
         uses: actions/cache@master
@@ -45,9 +43,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@main
-
       - name: Download Artifact
         uses: actions/download-artifact@main
         with:

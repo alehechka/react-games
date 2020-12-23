@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
 	<React.StrictMode>
-		<BrowserRouter basename='/react-games'>
+		<BrowserRouter>
 			<App />
 		</BrowserRouter>
 	</React.StrictMode>,
