@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-games"]=this["webpackJsonpreact-games"]||[]).push([[0],{22:function(e,t,c){"use strict";c.r(t);var n=c(2),r=c(0),s=c.n(r),a=c(9),i=c.n(a),o=function(){return Object(n.jsx)("div",{children:"Hello World"})},d=c(11);i.a.render(Object(n.jsx)(s.a.StrictMode,{children:Object(n.jsx)(d.a,{basename:"/react-games",children:Object(n.jsx)(o,{})})}),document.getElementById("root"))}},[[22,1,2]]]);
+//# sourceMappingURL=main.0436f802.chunk.js.map
